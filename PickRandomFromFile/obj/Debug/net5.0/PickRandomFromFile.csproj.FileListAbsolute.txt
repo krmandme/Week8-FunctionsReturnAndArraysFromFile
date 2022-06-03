@@ -1,0 +1,16 @@
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.csproj.AssemblyReference.cache
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.AssemblyInfoInputs.cache
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.AssemblyInfo.cs
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.csproj.CoreCompileInputs.cache
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.exe
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.deps.json
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.runtimeconfig.json
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.runtimeconfig.dev.json
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.dll
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\ref\PickRandomFromFile.dll
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\bin\Debug\net5.0\PickRandomFromFile.pdb
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.dll
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\ref\PickRandomFromFile.dll
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.pdb
+C:\Users\KristjanMändmets\source\repos\FunctionsReturnAndArraysFromFile\PickRandomFromFile\obj\Debug\net5.0\PickRandomFromFile.genruntimeconfig.cache
